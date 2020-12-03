@@ -16,3 +16,5 @@ Create a simple calendar application that allows a user to save events for each 
 * THEN the text for that event is saved in local storage
 * WHEN I refresh the page
 * THEN the saved events persist
+
+![Work Day Scheduler](/Assets/05-third-party-apis-homework-demo.gif)
