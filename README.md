@@ -18,3 +18,5 @@ Create a simple calendar application that allows a user to save events for each 
 * THEN the saved events persist
 
 ![Work Day Scheduler](/Assets/05-third-party-apis-homework-demo.gif)
+
+[Deployed application](https://cris-franco.github.io/work-day-scheduler/)
