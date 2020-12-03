@@ -85,3 +85,12 @@ var interval = setInterval(function() {
       hourSpan = $(this).siblings(".input-group-prepend").text().trim();
       console.log(hourSpan);
       localStorage.setItem(hourSpan, JSON.stringify(userInput));
+    })
+    
+    // Clear button
+    $("#clearDay").on("click", function(){
+      localStorage.clear();
+      initPage()
+    }) 
+  
+  });
